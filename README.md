@@ -22,4 +22,4 @@ The Parking Space Calculator is a project that utilizes image processing techniq
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/Raviteja-69/ParkingSpaceCalculator.git
+   git clone https://github.com/Raviteja-69/ParkingSpaceFinder.git
