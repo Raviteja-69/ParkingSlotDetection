@@ -1,4 +1,4 @@
-# Parking Space Finder
+# Parking Slot Detection
 
 ## Overview
 
